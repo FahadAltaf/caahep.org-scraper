@@ -1,0 +1,18 @@
+﻿{
+  "searchText": "",
+  "isInternational": false,
+  "professionIds": [],
+  "concentrations": [],
+  "addOnTracks": [],
+  "sortStatuses": [ 1 ],
+  "degreeDiploma": true,
+  "degreeAssociate": true,
+  "degreeBaccalaureate": true,
+  "degreeCertificate": true,
+  "degreeMasters": true,
+  "paging": {
+    "pageNumber": 1,
+    "maxPageSize": 10000,
+    "pageSize": 10000
+  }
+}
